@@ -42,7 +42,7 @@ int main() {
     }
 
     // process
-    answer = Biggest_Number(randomNumber);
+    answer = BiggestNumber(randomNumber);
     std::cout << "\nThe largest number is " << answer << std::endl;
     std::cout << "\nDone.";
 }
