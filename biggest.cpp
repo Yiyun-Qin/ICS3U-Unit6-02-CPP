@@ -10,7 +10,7 @@
 
 
 template<size_t N>
-int Biggest_Number(std::array<int, N> listNUmbers) {
+int BiggestNumber(std::array<int, N> listNUmbers) {
     // This function finds the maximum value
 
     // process & output
